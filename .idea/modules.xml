@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JPEG Reader.iml" filepath="$PROJECT_DIR$/JPEG Reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JPEGReader.iml" filepath="$PROJECT_DIR$/.idea/JPEGReader.iml" />
     </modules>
   </component>
 </project>
